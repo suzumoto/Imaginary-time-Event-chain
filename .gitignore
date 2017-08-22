@@ -1,5 +1,7 @@
 *
-!*pp
+!*.hpp
+!*.cpp
+!*.gp
 !*CMakeLists.txt
 !*README.md
 !.gitignore
