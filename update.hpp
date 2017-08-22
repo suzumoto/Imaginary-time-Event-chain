@@ -6,8 +6,8 @@
 #include "System_Parameter.hpp"
 #include "bead.hpp"
 
-#ifndef UPDATE_METHODS_
-#define UPDATE_METHODS_
+#ifndef IMAGINARY_EVENT_CHAIN_UPDATE_METHODS_
+#define IMAGINARY_EVENT_CHAIN_UPDATE_METHODS_
 
 inline double two(double a){
   return a*a;
